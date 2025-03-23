@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Convert time zone</string>
+    <string name="text_time_zone">แปลงโซนเวลา</string>
+    <string name="button_start">เริ่มต้น</string>
+    <string name="button_out">ออก</string>
+    <string name="editText_hint">เลือกเวลา</string>
+    <string name="button_convert">แปลง</string>
+    <string name="text_to">เป็น</string>
+</resources>

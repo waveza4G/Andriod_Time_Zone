@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Convert time zone</string>
+    <string name="text_time_zone">Convert time zone</string>
+    <string name="button_start">Start</string>
+    <string name="button_out">Out</string>
+    <string name="editText_hint">Select Time</string>
+    <string name="button_convert">Convert</string>
+    <string name="text_to">To</string>
+</resources>
